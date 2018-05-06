@@ -1,0 +1,5 @@
+MONGO_USER_ADMIN=bryan_henderson
+MONGO_PASS_ADMIN=bryansPword1975
+
+MONGO_REPLICA_ADMIN=flicksDBAdmin
+MONGO_PASS_REPLICA=flicksReplicaDBPword1975
